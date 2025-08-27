@@ -24,3 +24,15 @@ A passionate developer who loves solving problems 🧩 and learning new things �
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
+
+## 💻 Projects
+
+- [E-Commerce Website](#) - MERN Stack, Bootstrap
+- [Blog Platform](#) - Next.js, TailwindCSS
+- [Portfolio Site](#) - React, TailwindCSS
+
+
+## 📊 GitHub Stats
+
+![Shifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shifat01&show_icons=true&theme=radical)
+
