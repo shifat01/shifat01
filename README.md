@@ -8,6 +8,13 @@ A passionate developer who loves solving problems 🧩 and learning new things �
 [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://your-resume-link.com)
 
 
+## 💻 Projects
+
+- [E-Commerce Website](#) - MERN Stack, Bootstrap
+- [Blog Platform](#) - Next.js, TailwindCSS
+- [Portfolio Site](#) - React, TailwindCSS
+
+
 ### 🔧 Technologies & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest-api&logoColor=white)
@@ -25,14 +32,10 @@ A passionate developer who loves solving problems 🧩 and learning new things �
 ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 
-## 💻 Projects
-
-- [E-Commerce Website](#) - MERN Stack, Bootstrap
-- [Blog Platform](#) - Next.js, TailwindCSS
-- [Portfolio Site](#) - React, TailwindCSS
-
 
 ## 📊 GitHub Stats
 
 ![Shifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shifat01&show_icons=true&theme=radical)
+
+![Shifat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shifat01&layout=compact&theme=radical)
 
