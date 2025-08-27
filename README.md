@@ -8,7 +8,7 @@ A passionate developer who loves solving problems 🧩 and learning new things �
 [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://your-resume-link.com)
 
 
-## 💻 Recent Projects
+## 💻 Projects
 
 - [](#project-link) - 
 - [](#project-link) - 
