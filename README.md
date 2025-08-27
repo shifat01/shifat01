@@ -2,7 +2,7 @@
 A passionate developer who loves solving problems 🧩 and learning new things 📚.
 
 ### 🌐 Connect with me
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shifat333000@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=shifat333000@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shifat22/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=ko-fi&logoColor=white)](https://your-portfolio-link.com)
 [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://your-resume-link.com)
