@@ -8,11 +8,11 @@ A passionate developer who loves solving problems 🧩 and learning new things �
 [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://your-resume-link.com)
 
 
-## 💻 Projects
+## 💻 Recent Projects
 
-- [E-Commerce Website](#) - MERN Stack, Bootstrap
-- [Blog Platform](#) - Next.js, TailwindCSS
-- [Portfolio Site](#) - React, TailwindCSS
+- [](#project-link) - 
+- [](#project-link) - 
+- [](#project-link) - 
 
 
 ### 🔧 Technologies & Tools
